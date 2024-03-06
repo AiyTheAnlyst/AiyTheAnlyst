@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IyanuTheAnlyst
+- 👋 Hi, I’m Iyanuoluwa Adeniji
 - 👀 I’m interested in extracting meaningful insights and patterns from data to inform decision-making and drive business and organizations outcomes.
 - 🌱 I’m currently learning pyton and SQL. However, i have vast knowlede and able to use tools like power bi and excel. 
 - 💞️ I’m looking to collaborate with cross-functional teams and stakeholders to leverage data for informed decision-making and strategic initiatives.
